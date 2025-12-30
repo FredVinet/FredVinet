@@ -6,7 +6,7 @@ Développeur Web & Logiciel en alternance chez Label7, actuellement en Bachelor 
 
 ## 🚀 Projets
 - **[Écosystème E-commerce](https://github.com/FredVinet/Kuby)** — API REST Java + Web App Vue.js + Desktop Electron
-- **[Drone Tello Automation](https://github.com/FredVinet/Drone-Tello)** — Scripts de vol autonome en Python
+- **[Drone Tello Automation](https://github.com/FredVinet/Drone-Tello)** — Scripts de mise en vol d'un drone Tello en Python
 
 ## 🌱 En ce moment
 - 🔭 Alternant chez **Label7** (dev web B2B + automatisation Python)
